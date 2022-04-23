@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="CombatTrainer">
+    <output-path>$USER_HOME$/osrs_emu_bot/scripts</output-path>
+    <root id="archive" name="CombatTrainer.jar">
+      <element id="module-output" name="CombatTrainer" />
+    </root>
+  </artifact>
+</component>

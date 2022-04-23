@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="osrs_emu_bot">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/osrs_emu_bot/osrs_emu_bot.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
